@@ -1,4 +1,4 @@
-############################################CREATED BY ARUN FAUJDAR#################################
+############################################CREATED BY ARPIT VIJAYVERGIYA#################################
 from tkinter import *
 import random
 
